@@ -1,0 +1,14 @@
+# Node modules
+node_modules
+
+# Logs
+logs
+*.log
+
+# Docker files
+**/Dockerfile
+**/docker-compose.yml
+
+# Editor directories and files
+.vscode/
+.idea/
