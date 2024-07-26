@@ -3,7 +3,7 @@ services:
   web_personal:
     build: .
     ports:
-      - "80:80"
+      - "8200:80"
     networks:
       - npm_default
     container_name: web_personal
